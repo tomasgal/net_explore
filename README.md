@@ -6,5 +6,5 @@ This script pings each IP address from 192.168.1.1 to 192.168.1.254 and logs the
 Once you have a list of active hosts, you can use the net view command to list their shared folders.  
 Save the combined script to a file, such as scan_network.bat, and run it from the command prompt. It will scan the network, identify active hosts, and list their shared folders.  
   
-Opens in new window  
-
+Opens in new window with start_ne.bat 
+                     
